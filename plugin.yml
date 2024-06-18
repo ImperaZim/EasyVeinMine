@@ -1,0 +1,6 @@
+name: VeinMine
+version: 1.0.0
+author: ImperaZim
+
+api: 5.0.0
+main: ImperaZim\EasyVeinMine\VeinMine
